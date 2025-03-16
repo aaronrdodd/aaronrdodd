@@ -1,8 +1,7 @@
 ### Hello, World!
 
-You've stumbled across my github profile! I'm **Aaron Dodd**, a passionate self-taught full stack software engineer with 7 years (and counting!) industry experience who loves solving difficult problems with computers.
+I'm a Software Developer from the UK.
 
-Throughout my career I've had the opportunity to work alongside senior software engineers who have raised my standards of what's expected from any software engineer, and have given me the opportunity to further my studies. I now hold a Bachelors Degree in Computer Science from the University of Hertfordshire.
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aaron-dodd&hide=html,javascript,java&show_icons=true&theme=transparent)
-![Aaron's github stats](https://github-readme-stats.vercel.app/api?username=aaron-dodd&show_icons=true&count_private=true&line_height=40&theme=transparent)
+![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronrdodd&theme=transparent)
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronrdodd&theme=transparent)
+![Top Languages by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronrdodd&theme=transparent)
